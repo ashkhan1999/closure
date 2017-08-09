@@ -1,0 +1,28 @@
+button {
+    width: 266px;
+    height: 50px;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#pink {
+    background-color: palevioletred;
+}
+
+#input {
+    margin-top: 20px;
+}
