@@ -1,5 +1,5 @@
 button {
-    width: 266px;
+    width: 260px;
     height: 50px;
 }
 
@@ -25,4 +25,8 @@ button {
 
 #input {
     margin-top: 20px;
+}
+
+.direction {
+    text-align: center;
 }
